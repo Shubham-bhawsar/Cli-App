@@ -13,8 +13,8 @@ provide the URL and the optional path where you want to store the data.
 ## How to use
 
 - Run `go install` for bulding the project.
-- Run `Cli-App download --url="Any URL"` for downloading the required file in default directory.
-- Run `Cli-App download --url="Any URL" --path="/$HOME/Downloads/xyz.jpg"` for downloading the required file in desired directory which is provide in `path` flag.
+- Run `CliApp download --url="Any URL"` for downloading the required file in default directory.
+- Run `CliApp download --url="Any URL" --path="/$HOME/Downloads/xyz.jpg"` for downloading the required file in desired directory which is provide in `path` flag.
 
 ## Testing guide
 ### Build
